@@ -126,7 +126,7 @@ main a {
     background-color: rgba(156,51,53,0.1);
 }
 
-.myForm [type=sumbit] {
+.myForm [type=submit] {
     background-color: #43a0b6;
     border: none;
     padding: 1rem 2rem;
